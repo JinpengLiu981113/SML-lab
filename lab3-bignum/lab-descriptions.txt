@@ -1,0 +1,6 @@
+This lab asks you to implement three binary options, 
+which are addition, subtraction, multiplication, 
+based on bit sequences translated from two big numbers.
+
+This lab is a emulation of the calculation process in our computer,
+after finishing this, you can acquire some knowledge of it based on SML.
