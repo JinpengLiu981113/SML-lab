@@ -28,4 +28,4 @@ coming soon
 ### lab7
 coming soon
 ### lab8
-coming soon
+[lab8 code](https://github.com/JinpengLiu981113/SML-lab/tree/master/lab8-RangeLab)
