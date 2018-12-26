@@ -12,7 +12,9 @@ In case of forgetting the primitive codes after changing them, I put them here s
 Some of my code for sml-lab
 
 ### lab0
-coming soon
+
+[lab0 code](https://github.com/JinpengLiu981113/SML-lab/tree/master/lab0-CardLab)
+
 ### lab1
 coming soon
 ### lab2
@@ -28,4 +30,5 @@ coming soon
 ### lab7
 coming soon
 ### lab8
+
 [lab8 code](https://github.com/JinpengLiu981113/SML-lab/tree/master/lab8-RangeLab)
