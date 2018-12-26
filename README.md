@@ -26,7 +26,9 @@ coming soon
 ### lab4
 coming soon
 ### lab5
-coming soon
+
+[lab5 code](https://github.com/JinpengLiu981113/SML-lab/tree/master/lab5-ThesaurusLab)
+
 ### lab6
 coming soon
 ### lab7
