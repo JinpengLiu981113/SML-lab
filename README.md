@@ -16,7 +16,9 @@ Some of my code for sml-lab
 [lab0 code](https://github.com/JinpengLiu981113/SML-lab/tree/master/lab0-CardLab)
 
 ### lab1
-coming soon
+
+[lab1 code](https://github.com/JinpengLiu981113/SML-lab/tree/master/lab1-parenlab)
+
 ### lab2
 coming soon
 ### lab3
