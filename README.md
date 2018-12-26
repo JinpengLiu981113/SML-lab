@@ -20,7 +20,9 @@ coming soon
 ### lab2
 coming soon
 ### lab3
-coming soon
+
+[lab3 code](https://github.com/JinpengLiu981113/SML-lab/tree/master/lab3-bignum)
+
 ### lab4
 coming soon
 ### lab5
