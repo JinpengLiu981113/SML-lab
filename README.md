@@ -14,25 +14,18 @@ Some of my code for sml-lab
 ### lab0
 coming soon
 ### lab1
-
-[lab1 code]()
-
+coming soon
 ### lab2
 coming soon
 ### lab3
-
-[lab3 code]()
-
+coming soon
 ### lab4
 coming soon
 ### lab5
-
-[lab5 code]()
-
+coming soon
 ### lab6
 coming soon
 ### lab7
 coming soon
 ### lab8
-
-[lab8 code]()
+coming soon
